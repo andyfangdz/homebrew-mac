@@ -1,4 +1,4 @@
-class RipgrepBin < Formula
+class RipgrepAvx < Formula
   version '0.8.1'
   desc "Recursively search directories for a regex pattern. AVX Enabled"
   homepage "https://github.com/BurntSushi/ripgrep"

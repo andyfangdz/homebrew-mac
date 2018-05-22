@@ -1,5 +1,5 @@
 class RipgrepAvx < Formula
-  version '0.8.1-a383d5c'
+  version '0.8.2-a383d5c'
   desc "Recursively search directories for a regex pattern. AVX Enabled"
   homepage "https://github.com/BurntSushi/ripgrep"
 
